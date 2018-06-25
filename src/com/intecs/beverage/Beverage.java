@@ -25,7 +25,7 @@ public class Beverage {
 	}
 	
 	
-	
+	//override della funzione equals
 	@Override
 	public boolean equals(Object obj) {
 		boolean result=false;
